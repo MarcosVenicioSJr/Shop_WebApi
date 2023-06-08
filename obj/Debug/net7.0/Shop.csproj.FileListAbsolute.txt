@@ -31,3 +31,6 @@ C:\dev\Shop\obj\Debug\net7.0\refint\Shop.dll
 C:\dev\Shop\obj\Debug\net7.0\Shop.pdb
 C:\dev\Shop\obj\Debug\net7.0\Shop.genruntimeconfig.cache
 C:\dev\Shop\obj\Debug\net7.0\ref\Shop.dll
+C:\dev\Shop\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\dev\Shop\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\dev\Shop\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
